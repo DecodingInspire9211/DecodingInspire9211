@@ -1,14 +1,19 @@
 # DECODINGINSPIRE
 ## READ ME
 </br>
-<em>My name is Kenneth-William and I am a 12th grader from a Higher Technical School for Electronics and Computer Science.</em>
+<em>My name is <b>Kenneth-William</b> and I am a 12th grader from a Higher Technical School for Electronics and Computer Science.</em>
 </br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula">
+</br>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
+</a>
+<a>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula&layout=compact"></img>
+</a>
+</br>
 
 ## SKILLS
 ### Currently learning the following languages
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula&layout=compact">
 
 **Programming**
   - C
