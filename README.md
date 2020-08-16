@@ -6,7 +6,9 @@
 </br>
 <a style = display:block>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula&layout=compact"></img>
+</a>
+<a style = display:block>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
 </a>
 
 </br>
