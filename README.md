@@ -8,6 +8,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
 </br>
 </br>
+</br>
+</br>
+</br>
 ## LANGUAGES
 ### USAGE
 </br>
@@ -29,4 +32,4 @@
 **Statistics-oriented**
   - R
 
-
+### Thanks for reading!
