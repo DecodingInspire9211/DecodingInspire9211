@@ -6,12 +6,15 @@
 </br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-
+</br>
+</br>
 ## LANGUAGES
 ### USAGE
-
+</br>
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-
+</br>
+</br>
 
 ### CURRENTLY LEARNING
 
