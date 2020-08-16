@@ -4,17 +4,14 @@
 <em>My name is <b>Kenneth-William</b> and I am a 12th grader from a Higher Technical School for Electronics and Computer Science.</em>
 </br>
 </br>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-</a>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
 
 ## LANGUAGES
 ### USAGE
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
+
 
 ### CURRENTLY LEARNING
 
