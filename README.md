@@ -5,23 +5,12 @@
 </br>
 </br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
+![Decos's github stats](https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula)
+
 ## LANGUAGES
 ### USAGE
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&&show_icons=true&theme=darcula"></img>
-</br>
-</br>
-</br>
+![Decos's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula)
 
 ### CURRENTLY LEARNING
 
