@@ -15,6 +15,8 @@
 ### CURRENTLY LEARNING
 
 **Programming**
+  - C
+  - C++
   - C#
   
 **Web Development**
