@@ -1,7 +1,7 @@
 # DECODINGINSPIRE
 ## READ ME
 </br>
-<em>My name is <b>Kenneth-William</b> and I am a 12th grader from a Higher Technical School for Electronics and Computer Science.</em>
+<em>My name is <b>Kenneth-William</b> and I am a 13th grader from a Higher Technical School for Electronics and Computer Science in Austria.</em>
 </br>
 </br>
 
