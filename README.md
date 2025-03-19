@@ -13,9 +13,9 @@
 
   <p align="center">
     <br />
-    <img width=377 src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats">
-    <img width=256 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula&layout=donut" alt="GitHub Language">
+    <img width=377 src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&count_private=true&show_icons=true&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats">
+    <img width=256 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&count_private=true&show_icons=true&layout=donut" alt="GitHub Language">
   </p>
+  <img width=633 src="https://github-readme-stats.vercel.app/api/wakatime?username=DecoWolfdoggo&layout=compact" alt="GitHub Language">
   </div>
-
 </div>
