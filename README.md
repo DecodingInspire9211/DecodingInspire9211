@@ -1,17 +1,21 @@
-# DecoWolfdoggo
-*Wolfdoggo in Vienna XXI, Austria*
+<div align="center">
+  <h3>Wolfdoggo in Vienna XXI, Austria</h3>
+  <h4></h4>
 
-## About Me
+  <br />
 
-Studying Creative Computing in St. Pölten.
-I work on projects that bring old-school ideas into modern development. 
+  <div align="center">
+    <h2>About Me</h2>
+    <p>Studying <b>Creative Computing | BSc</b> in St. Pölten, Lower Austria</p>
+  </div>
 
-## Connect with Me
+  <br />
 
-- **GitHub:** [DecodingInspire9211](https://github.com/DecodingInspire9211)
-- **X (formerly Twitter):** [@DecoWolfdoggo](https://x.com/DecoWolfdoggo)
+  <p align="center">
+    <br />
+    <img height=192 src="https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula&rank_icon=percentile&include_all_commits=true" alt="GitHub Stats">
+    <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula&layout=donut" alt="GitHub Language">
+  </p>
+  </div>
 
----------------------------------------------------------------------------
-
-![Decos's github stats](https://github-readme-stats.vercel.app/api?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula)
-![Decos's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DecodingInspire9211&count_private=true&show_icons=true&theme=darcula)
+</div>
