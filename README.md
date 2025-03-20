@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Wolfdoggo in Vienna XXI, Austria</h3>
+  <h3>fiery-tempered but soft Wolfdoggo <br /> in Vienna XXI, Austria</h3>
   <h4></h4>
   
   <br />
