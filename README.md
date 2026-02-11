@@ -25,6 +25,7 @@ technology and it's creative sides. My projects range from Web Development, UI/U
 ## 🛠️ Tech Stack & Tools
 
 **Languages:**    TypeScript, JavaScript, C#, C, C++, Java, Kotlin, Rust, GDScript, Python
+
 **Frameworks:**   Node.js, Deno, React, Next.js, Tauri
 
 **Tools:**        Git, VS Code, JetBrains, Unity, Godot
