@@ -13,28 +13,24 @@
 I'm a **Creative Computing** bachelor student at St. Pölten University of Applied Sciences, where I learn about
 technology and it's creative sides. My projects range from Web Development, UI/UX Design to Mobile Dev and even Game Dev.
 
-```javascript
-const kenneth = {
-    location: "Vienna, Austria",
-    origin: "Baden, Austria",
-    education: {
-        university: ["Creative Computing / BSc", "USTP St. Pölten", "2024-2027"],
-        highscool: ["Electronics and Computer Science", "HTBLuVA Mödling", "2017-2022"]
-    },
-    interests: ["Game Development", "Interactive Media", "],
-    currentlyLearning: ["GDScript", "TypeScript", "Interactive Design"],
-    funFact: "Loyal like a wolf, curious like a dog - codes like a man"
-};
-```
+**QUICK FACTS**
+- location: Vienna XXI, Austria
+- origin: Baden, Austria
+- language: speaking German & English - learning Czech & Russian
+- studying: BSc Creative Computing @ St. Pölten University of Applied Sciences
+- interests: Games, Tech, Art
+- currentlyLearning: Rust, GDScript, Kotlin, Java
+- funFact: Loyal like a wolf, curious like a dog - codes like a man
 
 ## 🛠️ Tech Stack & Tools
 
-```text
-Languages:    TypeScript, JavaScript, C#, C, C++, Java, Kotlin, Rust, GDScript, Python
-Frameworks:   Node.js, Deno, React, Next.js, Tauri
-Tools:        Git, VS Code, JetBrains, Unity, Godot
-Focus:        Creative Computing, Game Development, Interactive Experiences, Web Development
-```
+**Languages:**    TypeScript, JavaScript, C#, C, C++, Java, Kotlin, Rust, GDScript, Python
+**Frameworks:**   Node.js, Deno, React, Next.js, Tauri
+
+**Tools:**        Git, VS Code, JetBrains, Unity, Godot
+
+**Focus:**        Creative Computing, Game Development, Interactive Experiences, Web Development
+
 
 ## 📊 GitHub Stats
 
