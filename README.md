@@ -2,7 +2,6 @@
 
 <div align="center">
 
-### Fiery-tempered but soft Wolfdoggo
 *Currently based in Vienna XXI, raised where Baden's spas lie*
 
 </div>
@@ -20,7 +19,6 @@ technology and it's creative sides. My projects range from Web Development, UI/U
 - studying: BSc Creative Computing @ St. Pölten University of Applied Sciences
 - interests: Games, Tech, Art
 - currentlyLearning: Rust, GDScript, Kotlin, Java
-- funFact: Loyal like a wolf, curious like a dog - codes like a man
 
 ## 🛠️ Tech Stack & Tools
 
